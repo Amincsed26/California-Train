@@ -1,4 +1,4 @@
-# California-Train
+# Caltrain
 A thread synchronization problem ensuring passengers board a train safely and efficiently using mutexes and semaphores.
 
 ![caltrain](https://github.com/WorldisAmen/California-Train/assets/145727573/b9528552-4e95-4556-945d-f2d709153430)
